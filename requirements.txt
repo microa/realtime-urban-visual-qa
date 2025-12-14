@@ -1,0 +1,16 @@
+# Realtime Urban Visual QA - Requirements
+
+# Core dependencies
+requests>=2.31.0
+opencv-python>=4.8.0
+m3u8>=3.5.0
+numpy>=1.24.0
+
+# Browser automation (for JavaScript execution)
+playwright>=1.40.0
+
+# Vector database (for Temporal RAG)
+chromadb>=0.4.0
+
+# Additional utilities
+python-dateutil>=2.8.2
