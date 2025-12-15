@@ -45,7 +45,7 @@ Access real-time urban environments from 36 global cities using EarthCam, YouTub
 | 🌎 **North America** | **85.7%** (6/7) | New York, Miami, Las Vegas, Chicago, San Francisco, Washington DC |
 | 🌍 **Europe** | **57.1%** (4/7) | London, Paris, Amsterdam, Dublin |
 | 🌎 **South America** | 33.3% (2/6) | Rio de Janeiro |
-| 🌏 **Asia** | 0% (0/12) | Blocked by subscription walls |
+| 🌏 **Asia** | 0% (0/10) | Blocked by subscription walls |
 | 🌏 **Oceania** | 0% (0/4) | Blocked by subscription walls |
 | 🌍 **Africa** | 0% (0/2) | Limited coverage |
 
